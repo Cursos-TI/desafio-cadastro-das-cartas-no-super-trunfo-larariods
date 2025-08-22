@@ -19,6 +19,7 @@ int pontos_turis1, pontos_turis2;
 float densidade_populacional1, densidade_populacional2;
 float PIBcapita1, PIBcapita2;
 
+printf("*** DESAFIO SUPER TRUNFO - NÍVEL AVENTUREIRO ***\n");
 
 //CARTA 1
 printf(" *** CARTA 01 ***\n");
